@@ -1,5 +1,5 @@
 # Cronómetro Web
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green) <br/>
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-FINALIZADO-violet) <br/>
 
 [![Imagen del cronómetro](https://github.com/CrisCorreaS/stopwatch/blob/main/img/visualizaci%C3%B3n/cronometro-vista.png)](https://criscorreas.github.io/stopwatch/)
 
