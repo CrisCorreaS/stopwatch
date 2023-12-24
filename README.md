@@ -9,8 +9,11 @@ Este cronómetro online ha sido creado por **[Cristina Correa](https://www.linke
 
 ### **Demo desplegada en GitHub Pages:** **[Haz click aquí](https://criscorreas.github.io/stopwatch/)**
 
-#### Vista previa del cronómetro
+#### Vista del cronómetro
 ![Vista previa del cronómetro](https://github.com/CrisCorreaS/stopwatch/blob/main/img/visualizaci%C3%B3n/cronometro-vista.png)
+
+#### Vista de las funcionalidades del cronómetro
+![Vista previa del cronómetro](https://github.com/CrisCorreaS/stopwatch/blob/main/video/stopwatch-features.gif)
 
 ## Características
 
@@ -43,6 +46,7 @@ A la hora de hacer este proyecto he utilizado los siguientes recursos:
 - ["How to Create Stopwatch" de GeeksforGeeks](https://www.geeksforgeeks.org/how-to-create-stopwatch-using-html-css-and-javascript/)- [Manz.Dev Lenguaje CSS](https://lenguajecss.com/css/)
 - [Manz.Dev Lenguaje Javascript](https://lenguajejs.com/javascript/)
 - [JavaScript MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [JavaScript padStart() method MDN reference](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String/padStart)
 - [How to use Google Fonts](https://developers.google.com/fonts/docs/css2?hl=es-419)
 - [FAQs about Google Fonts](https://developers.google.com/fonts/faq?hl=es-419)
 
