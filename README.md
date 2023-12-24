@@ -14,7 +14,7 @@ Este cronómetro online ha sido creado por **[Cristina Correa](https://www.linke
 
 ## Características
 
-- **Interfaz:** Diseño sencillo y monocromático.
+- **Interfaz:** Diseño sencillo, monocromático y responsive.
 - **Funciones básicas:** Mostrar horas, minutos y segundos; iniciar el cronómetro, pararlo y reiniciarlo.
 
 ## Tecnologías Utilizadas
