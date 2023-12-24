@@ -10,6 +10,7 @@ let timerId = 0;
 
 START_BTN.addEventListener("click", start, false);
 STOP_BTN.addEventListener("click", stop, false);
+RESET_BTN.addEventListener("click", reset, false);
 
 
 function start() {
@@ -45,4 +46,14 @@ function printTime() {
 function stop() {
     STOP_BTN.classList.add("disable");
     clearInterval(timerId);
+}
+
+function reset() {
+    START_BTN.classList.remove("disable");
+    STOP_BTN.classList.remove("disable");
+
+    clearInterval(timerId);
+    timerId = 0;
+    time = [0, 0, 0];
+    printTime();
 }
