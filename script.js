@@ -9,6 +9,8 @@ let time = [0, 0, 0];
 let timerId = 0;
 
 START_BTN.addEventListener("click", start, false);
+STOP_BTN.addEventListener("click", stop, false);
+
 
 function start() {
     START_BTN.classList.add("disable");
@@ -38,4 +40,9 @@ function printTime() {
     HOURS.innerText = time[0].toString().padStart(2, "0").padEnd(4, " :");
     MINUTES.innerText = time[1].toString().padStart(2, "0").padEnd(4, " :");
     SECONDS.innerText = time[2].toString().padStart(2, "0");
+}
+
+function stop() {
+    STOP_BTN.classList.add("disable");
+    clearInterval(timerId);
 }
