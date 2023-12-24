@@ -43,7 +43,8 @@ Este proyecto ha sido inspirado por ["How to Create Stopwatch" de GeeksforGeeks]
 
 ## Recursos Utilizados
 A la hora de hacer este proyecto he utilizado los siguientes recursos:
-- ["How to Create Stopwatch" de GeeksforGeeks](https://www.geeksforgeeks.org/how-to-create-stopwatch-using-html-css-and-javascript/)- [Manz.Dev Lenguaje CSS](https://lenguajecss.com/css/)
+- ["How to Create Stopwatch" de GeeksforGeeks](https://www.geeksforgeeks.org/how-to-create-stopwatch-using-html-css-and-javascript/)
+- [Manz.Dev Lenguaje CSS](https://lenguajecss.com/css/)
 - [Manz.Dev Lenguaje Javascript](https://lenguajejs.com/javascript/)
 - [JavaScript MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [JavaScript padStart() method MDN reference](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String/padStart)
