@@ -30,6 +30,26 @@ Este cronómetro online ha sido creado por **[Cristina Correa](https://www.linke
 - CSS
 - JavaScript
 
+## 🔎💡 Información
+> [!IMPORTANT]
+> - Este es un proyecto para principiantes. No se requieren conocimientos avanzados de HTML, CSS o JavaScript.
+> - Está desarrollado utilizando JavaScript Vanilla, así que no se utiliza ningún framework. Sin embargo, si estás buscando un poco más de desafío, ¡siéntete libre de explorar la posibilidad de integrar un framework!
+> - **Nivel de dificultad del proyecto:** 🔴⭕⭕⭕⭕⭕⭕⭕⭕⭕ (1 sobre 10)
+
+> [!TIP]
+> A la hora de desarrollar el proyecto, te pueden venir bien los siguientes recursos:
+> - ["How to Create Stopwatch" de GeeksforGeeks](https://www.geeksforgeeks.org/how-to-create-stopwatch-using-html-css-and-javascript/)
+> - CSS
+>    - [Manz.Dev Lenguaje CSS](https://lenguajecss.com/css/)
+> - JavaScript:
+>    - [Manz.Dev Lenguaje Javascript](https://lenguajejs.com/javascript/)
+>    - [JavaScript MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+>    - [JavaScript padStart() method MDN reference](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String/padStart)
+> - Google Fonts:
+>    - [How to use Google Fonts](https://developers.google.com/fonts/docs/css2?hl=es-419)
+>    - [FAQs about Google Fonts](https://developers.google.com/fonts/faq?hl=es-419)
+
+
 ## 📓 Cómo Usar
 
 1. Descarga o clona este repositorio en tu máquina local.
@@ -44,19 +64,6 @@ Este cronómetro online ha sido creado por **[Cristina Correa](https://www.linke
 ## 🎯 Propósito del Proyecto
 
 Este proyecto ha sido inspirado por ["How to Create Stopwatch" de GeeksforGeeks](https://www.geeksforgeeks.org/how-to-create-stopwatch-using-html-css-and-javascript/) y tiene como objetivo principal el aprendizaje de tecnologías para mejorar en el plano del desarrollo web.
-
-## 👌 Recursos Utilizados
-A la hora de hacer este proyecto he utilizado los siguientes recursos:
-- ["How to Create Stopwatch" de GeeksforGeeks](https://www.geeksforgeeks.org/how-to-create-stopwatch-using-html-css-and-javascript/)
-- CSS
-  - [Manz.Dev Lenguaje CSS](https://lenguajecss.com/css/)
-- JavaScript:
-  - [Manz.Dev Lenguaje Javascript](https://lenguajejs.com/javascript/)
-  - [JavaScript MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  - [JavaScript padStart() method MDN reference](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String/padStart)
-- Google Fonts:
-  - [How to use Google Fonts](https://developers.google.com/fonts/docs/css2?hl=es-419)
-  - [FAQs about Google Fonts](https://developers.google.com/fonts/faq?hl=es-419)
 
 ## ➡️ Licencia
 Este proyecto está licenciado bajo [MIT License](https://opensource.org/license/mit/).
